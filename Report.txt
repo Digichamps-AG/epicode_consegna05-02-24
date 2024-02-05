@@ -1,0 +1,3 @@
+I dati di tutte le variabili sono distribuiti in modo uniforme.
+
+Non esistono correlazioni tra variabili.
